@@ -5,5 +5,3 @@ for i in range(5) :
         
 print(int(sum(c)/len(c)))
 print(sorted(c)[2])
-
------------------------------------------------
